@@ -2,8 +2,8 @@
 
 ---
 title: "Course Project: Shiny Application and Reproducible Pitch"
-author: "Ben Karmay"
-date: "06/12/2017"
+author: 
+date: 
 output: ioslides_presentation
 ---
 
